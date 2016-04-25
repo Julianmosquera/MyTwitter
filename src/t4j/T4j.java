@@ -29,6 +29,7 @@ public class T4j {
 //                .setOAuthAccessTokenSecret("03VqDdFGjCkl4od3NGT2MZ0SQYyWwE1SxhskIM2s6z3Mv");
      // TwitterFactory tf = new TwitterFactory(cb.build());
   
+        //sin configuration builder
        Twitter mitwitter = new TwitterFactory().getInstance();
         
   
