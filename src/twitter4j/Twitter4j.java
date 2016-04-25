@@ -2,7 +2,7 @@
 package twitter4j;
 
 /**
- *
+ * No usada
  * @author julian
  */
 public class Twitter4j {
