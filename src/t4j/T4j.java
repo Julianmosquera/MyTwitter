@@ -3,7 +3,7 @@ package t4j;
 
 import java.util.List;
 import twitter4j.*;
-import static twitter4j.Query.Unit.mi;
+
 
 /**
  *
